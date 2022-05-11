@@ -7,7 +7,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.bennyhuo.android.hackviewbinding.R
-import com.bennyhuo.android.hackviewbinding.databinding.MainFragmentBinding
 
 class MainFragment : Fragment() {
 
